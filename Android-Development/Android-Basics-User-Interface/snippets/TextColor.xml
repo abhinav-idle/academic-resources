@@ -1,0 +1,7 @@
+<TextView
+    android:text="I got you a free hug. Surprise!"
+    android:background="#23fac3"
+    android:textColor="#37af44"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textSize="45sp" />
