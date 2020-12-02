@@ -1,0 +1,7 @@
+<ImageView
+    android:src="@drawable/cake"
+    android:layout_width="100dp"
+    android:layout_height="100pdf"
+    android:scaleType="centerCrop" 
+    <!-- to see the effect change `centerCrop` to `center` -->
+    />

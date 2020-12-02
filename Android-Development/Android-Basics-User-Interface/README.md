@@ -21,6 +21,9 @@ By the end of this course, you will have learned how to build an `app’s layout
     - [Quiz: Getting Past Errors](#quiz-getting-past-errors)
     - [Quiz: Setting `wrap_content`](#quiz-setting-wrap_content)
     - [Quiz: TextView `textSize`](#quiz-textview-textsize)
+    - [Quiz: TextView Text Color](#quiz-textview-text-color)
+    - [Quiz: Simple ImageView](#quiz-simple-imageview)
+    - [Quiz: Documentation](#quiz-documentation)
 
 ## Building Layouts: Part 1
 
@@ -245,6 +248,51 @@ Words we used in this video:
     android:textSize="45sp" />
 ```
 
+### Quiz: TextView Text Color
+
+[![Image Alt Text Here](https://img.youtube.com/vi/tn6VeQtSJ6Q/0.jpg)](https://www.youtube.com/watch?v=tn6VeQtSJ6Q)
+
+Colors `HEX` code url: <https://www.w3schools.com/colors/colors_hex.asp>
+
+New attribute: `textColor`
+
+```xml
+<TextView
+    android:text="I got you a free hug. Surprise!"
+    android:background="#23fac3"
+    android:textColor="#37af44"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textSize="45sp" />
+```
+
+### Quiz: Simple ImageView
+
+```xml
+<ImageView
+    android:src="@drawable/cake"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:scaleType="center"/>
+```
+
+![images](images/13.png)
+
+**Experiment Demo(Display Image in your application)**:
+[![Image Alt Text Here](https://img.youtube.com/vi/otTh-IITKYk/0.jpg)](https://www.youtube.com/watch?v=otTh-IITKYk)
+
+### Quiz: Documentation
+
+[![Image Alt Text Here](https://img.youtube.com/vi/w5AP3gwH46I/0.jpg)](https://www.youtube.com/watch?v=w5AP3gwH46I)
+
+```xml
+<TextView
+    android:text="Oh the possibilities of TextView!"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textSize="36sp"
+    android:textStyle="italic"/>
+```
 <!-- urls/paths -->
 [1]: https://developer.android.com/studio/index.html#Requirements
 [2]: https://discussions.udacity.com/t/make-your-own-card/19643
