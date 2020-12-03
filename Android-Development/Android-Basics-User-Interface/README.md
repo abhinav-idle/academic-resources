@@ -24,6 +24,9 @@ By the end of this course, you will have learned how to build an `app’s layout
     - [Quiz: TextView Text Color](#quiz-textview-text-color)
     - [Quiz: Simple ImageView](#quiz-simple-imageview)
     - [Quiz: Documentation](#quiz-documentation)
+  - [Building Layouts: Part 2](#building-layouts-part-2)
+    - [Quiz: ViewGroups](#quiz-viewgroups)
+    - [Quiz: Types of ViewGroups](#quiz-types-of-viewgroups)
 
 ## Building Layouts: Part 1
 
@@ -279,6 +282,7 @@ New attribute: `textColor`
 ![images](images/13.png)
 
 **Experiment Demo(Display Image in your application)**:
+
 [![Image Alt Text Here](https://img.youtube.com/vi/otTh-IITKYk/0.jpg)](https://www.youtube.com/watch?v=otTh-IITKYk)
 
 ### Quiz: Documentation
@@ -293,6 +297,26 @@ New attribute: `textColor`
     android:textSize="36sp"
     android:textStyle="italic"/>
 ```
+
+## Building Layouts: Part 2
+
+Learn how grouping layouts together allows for more creative and original designs
+
+### Quiz: ViewGroups
+
+[![Image Alt Text Here](https://img.youtube.com/vi/VyyRDCy5Dus/0.jpg)](https://www.youtube.com/watch?v=VyyRDCy5Dus)
+Here are the words we introduced in this video:
+
+1. ViewGroups
+2. Root View
+3. Parent
+4. Child
+5. Sibling
+
+### Quiz: Types of ViewGroups
+
+[![Image Alt Text Here](https://img.youtube.com/vi/qKk4l7mBN0c/0.jpg)](https://www.youtube.com/watch?v=qKk4l7mBN0c)
+
 <!-- urls/paths -->
 [1]: https://developer.android.com/studio/index.html#Requirements
 [2]: https://discussions.udacity.com/t/make-your-own-card/19643

@@ -1,0 +1,24 @@
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    
+    <ImageView
+    android:src="@drawable/cake"
+    android:layout_width="7600dp"
+    android:layout_height="400dp"
+    android:scaleType="centerCrop"/>
+    
+    <TextView
+        android:text="Guest 1 is welcome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#37af44"
+        android:textSize="40sp"
+        />
+
+    <TextView
+        android:text="Guest is waiting"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+</LinearLayout>
